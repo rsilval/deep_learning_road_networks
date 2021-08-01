@@ -8,7 +8,7 @@ instead of the original codes.
 
 The files of this repository are organized in the following way:
 
-1- : Sample script that trains a neural network given a reduced training set.
+1- Trainin_Example.py : Sample script that trains a neural network given a reduced training set.
 2- model_fitted_resampled_12732.pkl.zip: .pkl file that contains the final neural network model that predict the traffic performance metric.
 3- : Python file that shows a function that given a list of damaged bridges it computes the traffic performance metric.
 4- model_fitted_resampled_12732.pkl.zip: Simplified implementation of the modified LIME algorithm that shows as a result a ranking of bridges to be retrofitted.
