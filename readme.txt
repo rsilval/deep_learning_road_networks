@@ -16,3 +16,5 @@ The files of this repository are organized in the following way:
 6- : Code that generates analogue figures to the ones shown in Section: "Neural networks to predict seismic risk"
 
 The first author Rodrigo Silva-Lopez is open to share all codes and training data upon request to the email rsilval at stanford.edu . Note that the size of all files involved in the calculation of this paper are bigger than 38 gb of data.
+
+Some files are compressed as .zip due to limits imposed by github. In order for the codes to run properly you need to unzip those files. Some of these files are in the "input" folder
