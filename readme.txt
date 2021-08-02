@@ -12,8 +12,9 @@ The files of this repository are organized in the following way:
 2- model_fitted_resampled_12732.pkl.zip: .pkl file that contains the final neural network model that predict the traffic performance metric.
 4- LIME_Algorithm: Simplified implementation of the modified LIME algorithm that shows as a result a ranking of bridges to be retrofitted.
 4- Evaluate_performance.py: Script that evaluates performance of different retrofitting strategies using the neural network.
-5- Seismic_risk_parameters: Code that generates analogue figures to the ones shown in Section: "Neural networks to predict seismic risk"
-6- util.py: auxiliar code used to compute network performance
+5- util.py: auxiliar code used to compute network performance
+
+In addition to the previous codes there are two attached folders. One is "input" which has the files needed to run the experiments. The other one is "Figures" which is a plot that has the codes necessary to run some of the experiments and respective figures of the article.
 
 The first author Rodrigo Silva-Lopez is open to share all codes and training data upon request to the email rsilval at stanford.edu . Note that the size of all files involved in the calculation of this paper are bigger than 38 gb of data.
 
